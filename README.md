@@ -6,6 +6,6 @@
 
 ![Console](https://github.com/BadBourbon/configuration-files/raw/assets/URXVT%2BZSH.png)
 
-#### VIM + VunbleVim
+#### VIM + VundleVim
 
 ![VIM](https://github.com/BadBourbon/configuration-files/raw/assets/VIM.png)
