@@ -1,6 +1,6 @@
 # Conf
 
-## It my configuration files, for favorite Linux programs.
+## It's my configuration files, for favorite Linux programs.
 
 #### TERMINAL (rxvt-unicode + zsh) 
 
